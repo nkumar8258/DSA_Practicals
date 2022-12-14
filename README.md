@@ -21,5 +21,6 @@
 19. WAP to implement Lower Triangular Matrix using one-dimensional array.
 20. WAP to implement Upper Triangular Matrix using one-dimensional array.
 21. WAP to implement Symmetric Matrix using one-dimensional array.
+22. WAP to create a Threaded Binary Tree as per inorder traversal, and implement operations like finding the successor / predecessor of an element, insert an element, inorder traversal.
 23. WAP to implement various operations on AVL Tree.
 24. WAP to implement heap operations.
